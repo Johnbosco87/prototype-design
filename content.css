@@ -20,6 +20,16 @@ h2{
     align-items: center;
 }
 nav{
+   display:flex;  
+}
+ul{
+    text-decoration: none;
+    display:flex;
+    justify-content:space-between;
+    list-style: none;
+}
+li{
+    text-decoration: none;
     display:flex;
 }
 nav a{
