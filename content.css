@@ -20,7 +20,7 @@ h2{
     align-items: center;
 }
 nav{
- display:flex;  
+   display:flex;  
 }
 ul{
     text-decoration: none;
@@ -30,6 +30,7 @@ ul{
 }
 li{
     text-decoration: none;
+    display:flex;
 }
 nav a{
     padding:10px;
@@ -97,7 +98,7 @@ footer{
 .social{
     margin-right:70px;
 }
-nav li:hover{
+nav a:hover{
     background-color: hsl(240, 49%, 46%);
 }
 button:hover{
