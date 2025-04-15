@@ -90,9 +90,10 @@ footer{
     color:white;
     justify-content: space-between;
     margin-bottom: 20px;
+    padding-bottom: 10px;
 }
 .foot{
-    padding-top: 10px;
+    padding-top: 30px;
     margin-left:40px;
 }
 .social{
@@ -104,3 +105,10 @@ nav a:hover{
 button:hover{
     background-color: hsl(240, 70%, 75%);
 }
+button{
+    padding:11px;
+    border-radius:11px;
+}
+ #num{
+    padding:13px;
+} 
