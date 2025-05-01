@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin:0;
+    margin-left:3px;
 }
 body{
     background-color: hsl(0, 63%, 97%);
